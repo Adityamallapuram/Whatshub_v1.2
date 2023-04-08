@@ -1,0 +1,32 @@
+{
+  "name": "whatsham",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hamidsaifi.com",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "mime": "^3.0.0",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "mysql-import": "^5.0.26",
+    "mysql2": "^3.2.0",
+    "mysqldump": "^3.2.0",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.7.8",
+    "qrcode": "^1.5.1",
+    "randomstring": "^1.2.2",
+    "razorpay": "^0.0.0",
+    "whatsapp-web.js": "^1.19.5"
+  }
+}
