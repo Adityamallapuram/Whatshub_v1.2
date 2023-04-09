@@ -27,6 +27,7 @@
     "qrcode": "^1.5.1",
     "randomstring": "^1.2.2",
     "razorpay": "^0.0.0",
-    "whatsapp-web.js": "^1.19.5"
+    "whatsapp-web.js": "^1.19.5",
+    "yarn": "^1.22.19"
   }
 }
